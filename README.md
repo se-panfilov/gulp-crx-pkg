@@ -1,3 +1,7 @@
+# Deprecated / Unmaintained
+This project is no longer actively maintained. It may still work, but use it at your own risk.
+Please consider forking it if you need continued support.
+
 # gulp-chrome-extention-builder
 Make chromium extensions (zip and crx) from gulp.
 
